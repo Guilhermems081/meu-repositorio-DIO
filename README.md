@@ -1,2 +1,2 @@
-# meu-repositorio-DIO
+# Meu Repositório - DIO
 praticando git pela DIO
